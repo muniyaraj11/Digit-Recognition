@@ -1,12 +1,11 @@
 # A-novel-method-for-handwritten-digit-recognition-with-neural-networks
 A Novel Method for Handwritten Digit Recognition System
 
-Team Members :
+Team Member 4 - 
+Muniyaraj R -Team Leader
 
-Chandhini B (19z364) - Team Leader
+Harishwaran S
 
-Sushmitha S (19z352)
+Gugannathan K
 
-Swetha GN (19z354)
-
-Harshitha P (19z320)
+God infant franglin
